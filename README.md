@@ -13,4 +13,5 @@ Currently the app is in beta version, and would be soon equipped with-
 <ul><li>Options to filter the transactions user wants to view.</li>
 <li>Locate the "rewarding" stores using the Google map api</li>
 <li>Mail/share the transaction record</li>
+  <li>Implementing a website to do transactions and view all records in the database,as if an admin.</li>
 </ul>
